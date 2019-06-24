@@ -1,0 +1,3 @@
+Remove :
+$ rm -rf ~/anaconda2
+$ export PATH="/Users/jsmith/anaconda3/bin:$PATH"]
